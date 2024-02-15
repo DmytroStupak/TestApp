@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { AppStoreContext } from "../App";
 import { observer } from "mobx-react";
-import { Box, Link, Typography, Button } from "@mui/material";
+import { Box, Typography, Button } from "@mui/material";
 import { useState } from "react";
 
 function Navbar() {
